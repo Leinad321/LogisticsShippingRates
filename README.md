@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/59f08404-2423-4ae0-842a-cb09d3e693a2" /># LogisticsShippingRates
+#LogisticsShippingRates#
 please consider the below factors while contributing
 Code Style:
 Maintain a consistent code style for readability.
